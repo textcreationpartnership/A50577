@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoirs of Queen Mary's days wherein the Church of England, and all the inhabitants may plainly see (if God hath not suffered them to be insatuated) as in a glass, the sad effects which follow a popish successor enjoying the crown of England : humbly tendred to the consideration of, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50577</idno>
+            <idno type="STC">Wing M1669</idno>
+            <idno type="STC">ESTC R852</idno>
+            <idno type="EEBO-CITATION">12770195</idno>
+            <idno type="OCLC">ocm 12770195</idno>
+            <idno type="VID">93642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Memoirs of Queen Mary's days wherein the Church of England, and all the inhabitants may plainly see (if God hath not suffered them to be insatuated) as in a glass, the sad effects which follow a popish successor enjoying the crown of England : humbly tendred to the consideration of, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93642:1" rendition="simple:additions"/>
+            <head>MEMOIRS OF Queen Mary's days.</head>
+            <head type="sub">Wherein the CHURCH of <hi>ENGLAND,</hi> and all the Inhabitants may plainly ſee (if God hath not ſuffered them to be infatuated) as in a Glaſs, the ſad Effects which follow a POPISH SUCCESSOR enjoying the CROWN of <hi>ENGLAND.</hi>
+            </head>
+            <p>
+               <hi>Humbly tendred to the Conſideration of,</hi> &amp;c.</p>
+            <p>THE firſt remarkable paſſage in Queen <hi>Mary's <hi>(Popiſh)</hi>
+               </hi> Reign, was Her wicked Diſſimulation with the Men of <hi>Suffolk,</hi> to get Herſelf into the Throne, and Breach of Her Faith and Word, after She had obtained it, thus:</p>
+            <p>As ſoon as She heard of her Brother King <hi>Edward's</hi> death, and that He had by his Will, with the conſent of his Council, Excluded Her, and Nominated the Lady <hi>Jane</hi> to ſucceed (the ſaid Queen <hi>Mary</hi> having been before Baſtardized by her Father King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> VIII.) She, under pretence of fearing Infection, Rid 40 Miles in one day, and removed from <hi>Norfolk</hi> to her Caſtle of <hi>Framingham</hi> in <hi>Suffolk,</hi> where taking upon Her the name of Queen, pretended to all the Nobility and Gentry of thoſe Countries, <hi>That if they would give Her their Aſſiſtance, She would make no Alteration in Religion;</hi> Thereupon came to Her the Earls of <hi>Oxford, Bath,</hi> and <hi>Suſſex,</hi> Lord <hi>Wentworth, John Mordent</hi> and <hi>Thomas Wharton</hi> Barons, eldeſt Sons, and ſeveral Knights, and many others of <hi>Norfolk</hi> and <hi>Suffolk,</hi> with whom She Conditioned and Agreed, <hi>That She would not attempt in any wiſe the leaſt Alteration of Reli<g ref="char:EOLhyphen"/>gion eſtabliſhed by her Brother King</hi> Edward <hi>VI.</hi> She, by this trick, being thus aſſiſted, wrote her Letter to the Lords of the Council, wherein She claimed the Crown, and required them to proclaim Her Queen of <hi>England</hi> and the City of <hi>London,</hi> which in a ſhort time was done.</p>
+            <p>As ſoon as She got into the Throne, her fair Promiſes proved falſe Deceits, for She im<g ref="char:EOLhyphen"/>mediately (the very next day) broke her Word with them, and in a ſhort time thoſe of the Dioceſs in <hi>Suffolk</hi> whom She thus wheedled to aſſiſt Her, taſted the ſharpeſt Perſecution under Her Reign; for She was ſo far from keeping Her Promiſes and Conditions made either with them, or any others in matters of Religion, that She acted quite contrary, as appears by the Sequel of Her ſad and bloody Reign.</p>
+            <p n="1">1. It was in the 3d of <hi>Auguſt, Anno</hi> 1553. that Queen <hi>Mary</hi> rode through <hi>London</hi> to the Tower, and the very next day She ſet up <hi>Stephen Gardner,</hi> the bloody Perſecutor of the Proteſtants, in the Biſhoprick of <hi>Wincheſter,</hi> and a few days after made him High Chan<g ref="char:EOLhyphen"/>cellor of <hi>England;</hi> this was that cruel Man that the Duke of <hi>Norfolk</hi> came to dine with, who would not go to Dinner till Four of the clock in the afternoon, becauſe he would firſt have the news of Biſhop <hi>Ridleys</hi> and <hi>Latimers</hi> being Burnt; of whoſe death, by Gods heavy Judgment on him, you may read further in our Chronologies.</p>
+            <p n="2">2. The 5th of <hi>Auguſt,</hi> (two days after Her coming to <hi>London</hi>) She turns out the Pro<g ref="char:EOLhyphen"/>teſtant Biſhops of <hi>London</hi> and <hi>Durham,</hi> and re-eſtabliſhed <hi>Bonner</hi> (that blood-thirſty Miſ<g ref="char:EOLhyphen"/>creant) Biſhop of <hi>London,</hi> and <hi>Turſtall</hi> Biſhop of <hi>Durham.</hi> You ſee her firſt Act was to diſ<g ref="char:EOLhyphen"/>place Biſhops of the Church of <hi>England,</hi> and put bloody Popiſh Perſecutors in their room, who worried and deſtroyed the poor Proteſtants.</p>
+            <p n="3">3. The 15th of <hi>September</hi> after, Mr. <hi>Latimer,</hi> and Dr. <hi>Cranmer</hi> Archbiſhop of <hi>Canterbu<g ref="char:EOLhyphen"/>ry,</hi> with others, were Arraigned and Condemned.</p>
+            <p n="4">4. Preſently after Her Coronation, which was the Firſt of <hi>October,</hi> She pretended to ſhew Mercy by a General Pardon, which (ſays my Author) was ſo interlaced with Exceptions of Matters and Perſons, that very few received benefit thereby; ſo even that, with all the reſt, was a meer Cheat.</p>
+            <pb n="2" facs="tcp:93642:2"/>
+            <p n="5">5. It was not only the Proteſtant Clergy that She dealt thus withall, but even with the Judges too; for Sir <hi>James Hales,</hi> one of the Juſtices of the <hi>Common Pleas,</hi> who had been Her Friend, and ſtood for Her Succeſſion, yet he for giving Charge at a Quarter Seſſions in <hi>Kent,</hi> upon the Statutes of <hi>Henry</hi> VIII. and <hi>Edw.</hi> VI. in derogation of the Primary of <hi>Rome,</hi> he was firſt Committed to the <hi>Kings-Bench,</hi> then to the <hi>Counter,</hi> then to the <hi>Fleet,</hi> where he grew ſo troubled in mind, that he attempted with a Penknife to kill himſelf, and at laſt did drown himſelf.</p>
+            <p n="6">6. In this Her firſt Year, She alſo cauſed a Synod to be aſſembled about matters of Reli<g ref="char:EOLhyphen"/>gion, who reſtored the <hi>Romiſh</hi> Religion, and the Maſs commanded to be celebrated after the <hi>Romiſh</hi> manner.</p>
+            <p n="7">7. The 4th of <hi>February,</hi> in the ſaid Year, <hi>John Rodgers,</hi> the firſt Martyr of theſe times, was burnt at <hi>London.</hi>
+            </p>
+            <p n="8">8. <hi>February</hi> the 9th, <hi>John Hooper,</hi> late Biſhop of <hi>Worceſter,</hi> was Burnt at <hi>Glouceſter.</hi>
+            </p>
+            <p n="9">9. <hi>Robert Ferrer,</hi> Biſhop of <hi>Man,</hi> was Burnt at <hi>Caermarthen;</hi> after him <hi>John Bradford,</hi> with many others, was Burnt.</p>
+            <p n="10">10. <hi>October</hi> the 16th, 1554. thoſe two famous Men, <hi>Ridley</hi> late Biſhop of <hi>London,</hi> and <hi>Latimer</hi> late Biſhop of <hi>Worceſter</hi> (no leſs famous for their conſtant Deaths, than their Re<g ref="char:EOLhyphen"/>ligious Lives) were moſt inhumanely and barbarouſly Burnt at <hi>Oxford,</hi> after they had firſt been conveyed from the Tower thither, upon pretence to diſpute with the <hi>Romaniſts</hi> about the Real Preſence in the Sacrament.</p>
+            <p n="11">11. The next worthy thing that this <hi>Popiſh Succeſſor</hi> did, was, to ſet up the <hi>Popes Su<g ref="char:EOLhyphen"/>premacy</hi> amongſt us; For as ſoon as She was married to King <hi>Philip,</hi> She ſent to <hi>Rome</hi> for Cardinal <hi>Poole</hi> to come into <hi>England,</hi> who came inveſted with great Authority as the Popes Legat <hi>a latere,</hi> who made a ſolemn Speech to the Parliament, exhorting them to return to the Boſom of the Church, for which End he was come to reconcile them to the Church of <hi>Rome;</hi> and for their firſt work of Reconcilement, he required them to Repeal and Abro<g ref="char:EOLhyphen"/>gate all ſuch Laws as had been formerly made in derogation of the Catholick Religion.</p>
+            <p>Upon which Speech, the Parliament begged pardon for their former Errors, and told the Queen, They were moſt ready to abrogate all Laws prejudicial to the See of <hi>Rome.</hi> And thereupon the Cardinal gives them Abſolution in theſe words:
+<q>[We by the Apoſtolical Authority given unto <g ref="char:V">Ʋ</g>s by the Moſt Holy Lord Pope <hi>Julius</hi> III. (Chriſt's Vicegerent on Earth) do Abſolve and Deliver you, and every of you, with the whole Realm and the Dominions thereof, from all Hereſie and Schiſm, and from all Judg<g ref="char:EOLhyphen"/>ments, Cenſures and Pains in that Caſe incurred; and alſo We do reſtore you again to the <g ref="char:V">Ʋ</g>nity of Our Mother, The Holy Church.]</q>
+            </p>
+            <p>The Report hereof coming to <hi>Rome,</hi> was cauſe of a Solemn Proceſſion made for joy of the Converſion of <hi>England</hi> to the Church of <hi>Rome.</hi> And thus was all the Kingdom of <hi>England</hi> turn'd Papiſts in one day, by having a <hi>Popiſh Succeſſor.</hi>
+            </p>
+            <p n="12">12. <hi>March</hi> 1555. the Queen called to Her Four of Her Privy Council, and ſignified unto them, <hi>That it went againſt Her Conſcience to hold the Lands and Poſſeſſions as well of Mo<g ref="char:EOLhyphen"/>naſteries and Abbies, as of other Churches; and therefore did freely relinquiſh them, and leave them to be diſpoſed as the Pope and the ſaid Cardinal ſhould think fit.</hi> And ſhortly after in per<g ref="char:EOLhyphen"/>formance hereof, <hi>John Fecknam,</hi> late Dean of <hi>Pauls,</hi> was made Abbot of <hi>Weſtminſter,</hi> and the Lands belonging to it.</p>
+            <p n="13">13. Before this, <hi>Stephen Gardner,</hi> the Queens great Creature, uſes malicious practiſes againſt the Lady <hi>Elizabeth,</hi> the Queens onely Siſter, and next Heir to the Crown, and endea<g ref="char:EOLhyphen"/>voured very much to take away Her Life, She being a Proteſtant; he laid all the Snares for Her that he could invent, and at laſt, by his procurement, the Lady was kept in hard du<g ref="char:EOLhyphen"/>rance, and a Warrant at laſt was framed under certain Councellors hands to put Her to death; and had been done, but that Mr. <hi>Bridges,</hi> Lieutenant of the Tower, pitying Her caſe, went to the Queen about it, who denied that She knew any thing of it, by which means Her Life was preſerved, this bloody Perſecutor <hi>Gardner</hi> ſaying at the Council-Board, <hi>My Lords, we have but all this while been ſtripping off the Leaves, and now and then lopped a Branoh; but till ſuch time as we ſtrike at the Root of Hereſie,</hi> (meaning the Lady <hi>Elizabeth</hi>) <hi>nothing can be effected to purpoſe.</hi>
+            </p>
+            <p n="14">14. All Beneficed Men of the Clergy that were married, or would not forſake the Prote<g ref="char:EOLhyphen"/>ſtant Religion the firſt Year of Her Reign, were put out of their Livings, and <hi>Romaniſts</hi> put in their room.</p>
+            <p n="15">15. On the 27th of <hi>Auguſt,</hi> in the ſame Year, the Service begun to be ſung in <hi>Latine</hi> in <hi>Pauls</hi> Church.</p>
+            <p n="16">16. The ſame Year the <hi>Popes</hi> Authority was reſtored in <hi>England,</hi> and the Maſs was commanded in all Churches to be uſed.</p>
+            <pb n="3" facs="tcp:93642:2"/>
+            <p n="17">17. In Her 4th Year Monaſteries were begun to be Re-edified and Reſtored, and had She but Reigned long enough, undoubtedly She would have had all the Abby Lands in <hi>England</hi> reſtored, had not Death put a period to all.</p>
+            <p n="18">18. Neither was Her perſecution leſs to the common People, and plain hearted Country-Men, than to the Proteſtant Clergy; For obſerve and conſider, that within the compaſs of leſs than four Years, there ſuffered Death for the Teſtimony of their Conſciences in the Pro<g ref="char:EOLhyphen"/>teſtant Religion 277 Perſons, without any regard either of Degree, Age or Sex; in the heat of whoſe flames was conſumed Five Biſhops, Twenty one Divines, Eight Gentlemen, and Eighty four Artificers, One hundred Husbandmen, Servants and Labourers, Twenty ſix Wives, Twenty Widows, Nine Virgins, Two Boys, and Two Infants, and nigh as many dyed in Priſon, through hunger, and other cruelties.</p>
+            <p>OH the bloody Cruelty of the <hi>Papiſts,</hi> through their Popiſh Religion! Shall I call it Religion, which is more properly a Butchery? And thus you ſee the effects of a <hi>Popiſh Succeſſor.</hi>
+            </p>
+            <p>This is no Romance, it was <hi>de facto,</hi> and would you have it ſo again? Or will you put it in the ſame hazard once more? No ſure, unleſs you are infatuated; let <hi>Experience</hi> teach us which is the beſt Miſtriſs; let the burnt Child dread the Fire. Oh never forget the Burnings, the Scorchings, the Tortures and the Flames that were in Queen <hi>Maries</hi> Reign! We beg and beſeech you all in your places, uſe all the Care imaginable now in time to ſe<g ref="char:EOLhyphen"/>cure us our Wives and Children, and the Proteſtant Religion, from the like again.</p>
+            <p n="19">19. Though many Perſecutions laſted longer, yet 'tis obſervable by Dr. <hi>Heyling,</hi> that none ſince <hi>Diocleſian</hi>'s time raged ſo terribly, <hi>Eccleſ. Reſta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> but God being merciful to the poor Land and perſecuted Church. Of all ſince the Conqueſt, Her Reign was the ſhorteſt, onely excepting that of <hi>Richard</hi> the Tyrant, yet much more bloody than was his.</p>
+            <p>
+               <hi>[She Reigned five Years and four Months, wanting two Days.]</hi>
+            </p>
+            <p n="20">20. She lieth Buried in <hi>Weſtminſter,</hi> without any Monument or Remembrance at all; as in her Life She deſerved none, ſo in Her Death Her Memory is rotten; a juſt Reward for Her who was ſo cruel and bloody: yet one hath given Her this Inſcription to remain to Poſterity, <hi>viz.</hi>
+            </p>
+            <q>Whoſe Name was polluted with the Blood of ſo many Martyrs. Vnfortunate by ſo many Inſurrections. Made inglorious by the leſs of <hi>Calice</hi> (the Key of <hi>France</hi>) in eight days, which had been <hi>211</hi> years in the poſſeſsion of the <hi>Engliſh.</hi>
+            </q>
+            <div type="conclusion">
+               <head>Some COROLLARIES.</head>
+               <p>IN this Hiſtory we may obſerve ſeriouſly theſe Things as the ſad and fatal Conſe<g ref="char:EOLhyphen"/>quence.</p>
+               <list>
+                  <item>I. How <hi>Popiſh Succeſſors</hi> will at firſt blind us with Wheedles, till they have got the Power and Kingdom in poſſeſſion; and will tell us, <hi>That not one tittle of our Religion ſhall be changed, or altered;</hi> nay, and make Compacts, Agreements and Conditions to that pur<g ref="char:EOLhyphen"/>poſe.</item>
+                  <item>II. But when once ſet in the Throne, let what Promiſes will be, they ſhall be ſo far from being performed, that quite the contrary ſhall be acted, or elſe Thunder and Lightning will come from the <hi>Pope,</hi> till he hath done it by his Legats <hi>a latere.</hi>
+                  </item>
+                  <item>III. That when a <hi>Popiſh Succeſſor</hi> came to the Crown, the <hi>Popes Supremacy</hi> was immediately ſet up in <hi>England,</hi> even the very firſt year, and we all made tributary to <hi>Rome,</hi> and Slaves to the <hi>Pope,</hi> and would you have it ſo again?</item>
+                  <item>IV. The Popiſh Religion and the Maſs ſet up immediately all over <hi>England,</hi> and would you have it ſo again?</item>
+                  <item>V. The Proteſtant Biſhops put out, and Popiſh ones put in; and all the Clergy that were married, or would not abjure the Proteſtant Religion, were turned out; therefore you of the Clergy that mean to be ſincere, and not turn Papiſts, it behoves you well to conſider of it.</item>
+                  <item>VI. And not only ſo, but truly further, they muſt be brought to the Stake with their Wives and Children, and Burnt for Hereticks; For <hi>Popery</hi> is a mercileſs perſuaſion, and if they make never ſo many Promiſes otherwiſe, yet you know it's their Opinion, <hi>That no Faith is to be kept with Hereticks;</hi> ſo we can never be ſecure, if ever ſuch Reign.</item>
+                  <item>VII. Obſerve further, That if a <hi>Popiſh Succeſſor</hi> comes to the Crown, there will be all the Endeavors uſed to take off all the next Heirs that are Proteſtants, as there was to de<g ref="char:EOLhyphen"/>ſtroy the Lady <hi>Elizabeth,</hi> which ought to be of no ſmall conſideration with us.</item>
+                  <pb n="4" facs="tcp:93642:3"/>
+                  <item>VIII. Obſerve, <hi>Popiſh Monks</hi> and <hi>Friars</hi> were brought into <hi>England,</hi> and great En<g ref="char:EOLhyphen"/>deavors uſed to reſtore all <hi>Monaſteries</hi> and <hi>Abby-Lands,</hi> wherein no doubt but She and good Cardinal <gap reason="blank" resp="#UOM" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> had prevailed, and they had been all reſtored, had She Reigned but a little longer; therefore it doth not a little behove all you Gentlemen that have any <hi>Prio<g ref="char:EOLhyphen"/>ries, Abbies,</hi> or <hi>Monaſtery-lands</hi> to loſe, to conſider well how you put your ſelves or your Poſterity in any ſuch great hazard to loſe your Eſtates; as for thoſe that have ſuch Lands, of the <hi>Romiſh</hi> Religion, muſt not out of Conſcience detain them, if they will have any Ab<g ref="char:EOLhyphen"/>ſolution from their Ghoſtly Father; and as to thoſe Proteſtants that have ſuch Lands, they will be reckoned <hi>Hereticks,</hi> and to be ſure ſhall not be ſuffered to keep Church-lands from them. And this highly concerns all to conſider how with our Religion we give up our Liberties and Eſtates, by admitting a <hi>Popiſh Succeſſor;</hi> which God of his infinite mercy to <hi>England,</hi> and in oppoſition to ſuch Blood-thirſty, Heaven-daring, King-killing Principles and Practiſes, be pleaſed to deliver us.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>NOW as you have plainly ſeen the great and manifold Inconveniences, eminent Dangers, and moſt certain Ruine, to follow the admitting of a <hi>Popiſh Succeſſor</hi> in the ſad Effects of Queen <hi>Mary's</hi> Reign; ſo we may alſo conſider and behold (as the bright ſide of the Cloud) the vaſt advantages of Peace, Plenty, Glory and Happineſs that accrued to this Kingdom by a <hi>Pro<g ref="char:EOLhyphen"/>teſtant Succeſſor's</hi> enjoying the Imperial Crown, in the long and proſperous Reign of that mag<g ref="char:EOLhyphen"/>nanimous, thorough-hearted Proteſtant Queen <hi>Elizabeth</hi> of bleſſed memory, who (after having ſuffered five Years fiery Tryals) Reigned above Forty four Years, maugre all Her deſperate and bloody Enemies; yet could they not anticipate Her Death, nor ſtain Her Glorious Government, by all the black and helliſh Contrivances of Her, and our treacherous <hi>Popiſh</hi> Adverſaries.</p>
+            <p>Many, I may ſay infinite, were the Advantages and Felicities that theſe poor Kingdoms enjoyed by Her happy Reign; I will only hint a few general Heads now.</p>
+            <p>
+               <hi>Firſt then,</hi> By this <hi>Proteſtant Queen,</hi> a period was put to all the Bloody and <hi>Popiſh</hi> Perſe<g ref="char:EOLhyphen"/>cution againſt the <hi>Church of England,</hi> which all the poor Proteſtants had groaned under, all the <hi>Reign of Popiſh Queen Mary.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> By this true Proteſtant Princes, and the Proteſtant Religion, were eſtabliſh'd in this Nation, and Idolatrous Popery caſheer'd.</p>
+            <p>
+               <hi>Thirdly,</hi> By Her were our Anceſtors Lives protected, the Church of <hi>England</hi> defended, our Eſtates preſerved, and our Liberties ſecured.</p>
+            <p>
+               <hi>Fourthly,</hi> By Her Reign did the Kingdom enjoy Tranquility, and flouriſhed wonderfully, to the great benefit of all our Forefathers.</p>
+            <p>
+               <hi>Fifthly,</hi> And by Her Reign, this Nation became both <hi>Glorious</hi> and <hi>Formidable</hi> as well to Her and its Enemies <hi>Abroad,</hi> as at <hi>Home,</hi> and kept the Balance of all <hi>Europe</hi> in Her Hands, by Her winning the love of Her People, and Her continual adhering to the Advice of Her <hi>Par<g ref="char:EOLhyphen"/>liaments,</hi> by which as She had their <hi>Hearts,</hi> ſo She had their <hi>Purſes</hi> at Command, though She was always ſo kind and juſt to them, as ſometimes to refuſe their Grants of Subſidies, and would never make uſe of their Aids in money, (though offered by Her Parliament) but when there was real occaſion for Her Peoples <hi>Good</hi> and <hi>Safety.</hi>
+            </p>
+            <p>The Concluſion of all, is the ſame that <hi>Moſes</hi> ſaid to the Children of <hi>Iſrael,</hi> Deut. <hi>30.15, and 19</hi> verſes, <hi>Behold I have ſet before ye this day life and death, good and evil. I call heaven and earth to record this day againſt you, that I have ſet before you life and death, bleſſing and curſing: therefore chuſe life, that both thou and thy houſe may live.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
